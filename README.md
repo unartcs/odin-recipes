@@ -1,3 +1,2 @@
 # odin-recipes
-My first GitHub repo!
-Helo odin! :D
+Hi, this website will contain some recipes I like :)
